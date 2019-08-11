@@ -9,3 +9,15 @@ echo "web: python app.py" > Procfile => Heroku to understand which piece of your
                                      => Set the python version in the runtime.txt file in the root folder.
 
 pip freeze > requirements.txt       => to list down the dependencies of your application.
+
+
+
+
+
+
+///////////////// to create heroku ///////////
+
+heroku login
+https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
+
+https://git.heroku.com/nameless-sands-68044.git
